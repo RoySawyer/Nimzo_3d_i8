@@ -34,8 +34,8 @@ msgid "that end in mate, stalemate or a check, it can be switched off."
 msgstr "যেটির শেষ মেট, স্ট্যালমেট অথবা চেক দিয়ে হয়, সেটি বন্ধ করা যেতে পারে।"
 
 #: main_8.cpp:13
-msgid "Previous mask  :  Initially, set the current search details"
-msgstr "পূর্ববর্তী মুখোশ: প্রাথমিকভাবে, বর্তমান অনুসন্ধানের বিবরণ সেট করুন"
+msgid "Previous mask  :  Check to initially set the current search details"
+msgstr "পূর্ববর্তী মুখোশ: বর্তমান অনুসন্ধানের বিবরণ প্রাথমিকভাবে সেট করতে চেক করুন"
 
 #: main_8.cpp:15
 msgid "to those that were last input."

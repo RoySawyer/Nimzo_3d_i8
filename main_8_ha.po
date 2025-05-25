@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-25 09:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_8.cpp:3
+msgid "Game data  :  Check to use the game data during a search."
+msgstr "Bayanan wasan: Bincika don amfani da bayanan wasan yayin bincike."
+
+#: main_8.cpp:6
+msgid "Usually you will want this option switched on."
+msgstr "Yawancin lokaci za ku so a kunna wannan zaɓi."
+
+#: main_8.cpp:8
+msgid "If you are searching only for a matching position, or for games"
+msgstr "Idan kuna neman matsayi mai dacewa kawai, ko don wasanni"
+
+#: main_8.cpp:10
+msgid "that end in mate, stalemate or a check, it can be switched off."
+msgstr "wanda ya ƙare a mate, stalemate ko cak, ana iya kashe shi."
+
+#: main_8.cpp:13
+msgid "Previous mask  :  Initially, set the current search details"
+msgstr "Abin rufe fuska na baya: Da farko, saita bayanan bincike na yanzu"
+
+#: main_8.cpp:15
+msgid "to those that were last input."
+msgstr "zuwa ga waɗanda suka kasance na ƙarshe."
+
+#: main_8.cpp:18
+msgid "Clipboard  :  Open the clipboard with matching games after a search."
+msgstr "Clipboard : Buɗe allo tare da wasannin da suka dace bayan bincike."
+
+#: main_8.cpp:21
+msgid "Fast search  :  Check to use the fast search function."
+msgstr "Bincike mai sauri: Bincika don amfani da aikin bincike mai sauri."
+
+#: main_8.cpp:24
+msgid "Fast search options..  :  Click to open the fast search options dialog box."
+msgstr "Zaɓuɓɓukan bincike mai sauri.. : Danna don buɗe akwatin maganganu na zaɓin bincike mai sauri."

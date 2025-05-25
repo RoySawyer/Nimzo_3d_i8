@@ -34,8 +34,8 @@ msgid "that end in mate, stalemate or a check, it can be switched off."
 msgstr "që përfundojnë me shok, bllokim ose kontroll, mund të çaktivizohet."
 
 #: main_8.cpp:13
-msgid "Previous mask  :  Initially, set the current search details"
-msgstr "Maska e mëparshme: Fillimisht, vendosni detajet aktuale të kërkimit"
+msgid "Previous mask  :  Check to initially set the current search details"
+msgstr "Maska e mëparshme: Kontrolloni për të vendosur fillimisht detajet aktuale të kërkimit"
 
 #: main_8.cpp:15
 msgid "to those that were last input."

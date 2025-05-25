@@ -34,8 +34,8 @@ msgid "that end in mate, stalemate or a check, it can be switched off."
 msgstr "التي تنتهي بالتعادل أو الجمود أو الشيك، يمكن إيقاف تشغيلها."
 
 #: main_8.cpp:13
-msgid "Previous mask  :  Initially, set the current search details"
-msgstr "القناع السابق: في البداية، قم بتعيين تفاصيل البحث الحالية"
+msgid "Previous mask  :  Check to initially set the current search details"
+msgstr "القناع السابق: حدد هذا الخيار لتعيين تفاصيل البحث الحالية مبدئيًا"
 
 #: main_8.cpp:15
 msgid "to those that were last input."

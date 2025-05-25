@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-25 09:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_8.cpp:3
+msgid "Game data  :  Check to use the game data during a search."
+msgstr "Données du jeu : Cochez cette case pour utiliser les données du jeu lors d'une recherche."
+
+#: main_8.cpp:6
+msgid "Usually you will want this option switched on."
+msgstr "En général, vous souhaiterez que cette option soit activée."
+
+#: main_8.cpp:8
+msgid "If you are searching only for a matching position, or for games"
+msgstr "Si vous recherchez uniquement un poste correspondant ou des jeux"
+
+#: main_8.cpp:10
+msgid "that end in mate, stalemate or a check, it can be switched off."
+msgstr "qui se termine par un mat, un pat ou un échec, il peut être désactivé."
+
+#: main_8.cpp:13
+msgid "Previous mask  :  Initially, set the current search details"
+msgstr "Masque précédent : Initialement, définissez les détails de la recherche actuelle"
+
+#: main_8.cpp:15
+msgid "to those that were last input."
+msgstr "à ceux qui ont été saisis en dernier."
+
+#: main_8.cpp:18
+msgid "Clipboard  :  Open the clipboard with matching games after a search."
+msgstr "Presse-papiers : Ouvrez le presse-papiers avec les jeux correspondants après une recherche."
+
+#: main_8.cpp:21
+msgid "Fast search  :  Check to use the fast search function."
+msgstr "Recherche rapide : Cochez pour utiliser la fonction de recherche rapide."
+
+#: main_8.cpp:24
+msgid "Fast search options..  :  Click to open the fast search options dialog box."
+msgstr "Options de recherche rapide. : Cliquez pour ouvrir la boîte de dialogue des options de recherche rapide."

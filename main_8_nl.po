@@ -34,8 +34,8 @@ msgid "that end in mate, stalemate or a check, it can be switched off."
 msgstr "die eindigen op mat, pat of schaak, kan deze worden uitgeschakeld."
 
 #: main_8.cpp:13
-msgid "Previous mask  :  Initially, set the current search details"
-msgstr "Vorig masker: stel in eerste instantie de huidige zoekdetails in"
+msgid "Previous mask  :  Check to initially set the current search details"
+msgstr "Vorig masker: Selecteer dit om de huidige zoekdetails in eerste instantie in te stellen"
 
 #: main_8.cpp:15
 msgid "to those that were last input."
